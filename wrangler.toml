@@ -1,0 +1,10 @@
+name = "my-app"
+type = "javascript"
+
+account_id = ""
+route = "nw.com/*"
+zone_id = ""
+compatibility_date = "2022-04-15"
+kv_namespaces = [ 
+  { binding = "hreflang", id = "980d2350f1c4461d8cd38c88a0447a10" }
+]
